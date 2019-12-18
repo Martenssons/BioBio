@@ -29,6 +29,8 @@ nav {
     padding: 20px 100px;
 }
 
+/* Navbar brand & logo */
+
 .nav-brand {
     display: flex;
     cursor: pointer;
@@ -44,6 +46,8 @@ nav {
     font-size: 1.5rem;
     font-weight: 800;
 }
+
+/* Navbar links & search box */
 
 .nav-menus {
     display: flex;
@@ -495,7 +499,7 @@ footer {
     height: 200px;
 }
 
-/* Footer nav section */
+/* Footer nav links */
 
 .footer-nav-container {
     display: flex;
@@ -523,7 +527,7 @@ footer {
     color: #f6234c;
 }
 
-/* Footer subscribe section */
+/* Footer subscribe form */
 
 .footer-subscribe-container {
     display: flex;
@@ -556,7 +560,7 @@ footer {
     margin: 0 0 0 25px;
 }
 
-/* Footer social section */
+/* Footer social icons */
 
 .footer-social-container {
     font-size: 30px;
@@ -576,7 +580,7 @@ footer {
     cursor: pointer;
 }
 
-/* Footer copyright section */
+/* Footer copyright */
 
 .footer-copyright {
     text-align: center;
