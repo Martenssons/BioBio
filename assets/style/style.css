@@ -26,7 +26,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 100px;
+    padding: 15px 100px;
 }
 
 /* Navbar brand & logo */
@@ -368,7 +368,7 @@ nav {
 }
 
 .event-btn button {
-    margin: 40px 0;
+    margin: 40px 0 0 0;
 }
 
 /* Tickets content */

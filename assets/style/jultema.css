@@ -19,15 +19,15 @@ nav {
 }
 
 .nav-link:hover {
-    color: #cacaca;
+    color: #d8d8d8;
 }
 
 .nav-active {
-    color: #cacaca;
+    color: #d8d8d8;
 }
 
 .nav-search[type=text]::placeholder {
-    color: #cacaca;
+    color: #d8d8d8;
 }
 
 .nav-search {
